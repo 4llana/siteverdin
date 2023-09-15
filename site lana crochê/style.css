@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(153, 235, 153);
+    text-align: center;
+    }
+    
+    
+    .primeiraparte{
+        background-color:rgb(163, 210, 166);
+        padding: 150px 100px;
+    }
+    
+    .tituloum{
+        font-size: 50px;
+    }
+    
+    .paragrafos{
+        display: inline-block;
+        font-size:30px;
+    }
+    
+    .fotobolsa{
+        width: 150px;
+        height: 250px;
+    }
+    
+    .produtos{
+        text-align: center;
+        background-color:rgb(163, 210, 166);
+    }
+    
+    .todososprodutos{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    
+    .foto{
+        width: 120px;
+        padding: 40px;
+        margin: 40px;
+    }
+    
+    footer{
+    text-align: center;
+    }
+    
